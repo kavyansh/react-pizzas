@@ -9,6 +9,11 @@ export default {
       // colors: {
       //   pizza: '#123456',
       // }, // extend will extend and not overwrite. outside extend will overwrite
+      colors: {
+        pizza: '#E23744',
+        pizzaBtn: '#EF4F5F',
+        pizzaLight: '#FFEDEF',
+      },
       height: {
         screen: '100dvh',
       },
